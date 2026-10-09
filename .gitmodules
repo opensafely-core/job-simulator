@@ -1,0 +1,3 @@
+[submodule "job-runner"]
+	path = job-runner
+	url = git@github.com:opensafely-core/job-runner.git
