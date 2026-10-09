@@ -1,5 +1,10 @@
 # Job Simulator
 
+First fetch the historical jobs data into `jobs.duckdb` by running
+```sh
+./get_jobs.sh
+```
+
 Replay historical job scheduling into a new DuckDB database:
 
 ```sh
