@@ -1,3 +1,4 @@
 /jobs.duckdb
 /.venv
 __pycache__/
+*.duckdb
